@@ -1,0 +1,24 @@
+.contenedor {
+    width: 80%;
+    margin: auto;
+    box-shadow: 20px 20px 150px 5px black;
+    border-radius: 20px;
+}
+
+.card-header {
+    max-height: 200px;
+    min-height: 100px;
+}
+
+.logo-login {
+    position: relative;
+    width: 200px;
+}
+
+.portada .portada-vertical {
+    border-radius: 20px 0 0 20px;
+}
+
+.portada .portada-horizontal {
+    border-radius: 20px 20px 0 0;
+}
